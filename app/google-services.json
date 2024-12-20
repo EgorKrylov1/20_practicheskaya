@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058981085407",
+    "project_id": "practicheskaya-e9772",
+    "storage_bucket": "practicheskaya-e9772.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058981085407:android:50a577f9951a5dcd83e96a",
+        "android_client_info": {
+          "package_name": "com.example.a20practicheskaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PjFoYrFcj8eFI0cqG442j4AXX8-QwH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
